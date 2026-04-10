@@ -54,3 +54,4 @@ It allows users to search stocks and get predictions along with buy/sell recomme
 
 ## 🔗 Repository Link
 
+https://github.com/abhinashgautam/BCA4E_MiniProject_92400527307_Abhinash_Kumar_Gautam.git
